@@ -32,4 +32,8 @@ jQuery(document).ready(function(){
 			alert("NUEVOS DATOS");
 		})
     });
+
+	$("#withLoad").click(function(){
+		$("#ajax").load("textLoad.txt")
+	});
 });
