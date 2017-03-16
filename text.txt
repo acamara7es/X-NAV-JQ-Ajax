@@ -1,0 +1,1 @@
+Este texto procede directamente del servidor, no está incluido en el HTML original. Pulsando sobre él AJAX intentará obtener un nuevo documento para insertar texto, pero al no encontrarlo en el servidor, ejecutará la función que corresponde en caso de error.
