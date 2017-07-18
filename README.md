@@ -10,7 +10,7 @@ Realiza lo mismo, pero ahora de forma que la petición del documento se realice 
 Documentación de la función ajax() de jQuery: [https://api.jquery.com/jQuery.ajax/](https://api.jquery.com/jQuery.ajax/).
 
 ## Comentarios y mejoras
-Incluye ejemplo de uso de manejadores fail() y always(). En clase, una vez terminado el ejercicio, el profesor nos dijo que probáramos a utilizar la función [load()](https://api.jquery.com/load/) para hacer la petición, lo que es mucho ms sencillo si simplemente quieres incrustar lo que has descargado en el DOM.
+Incluye ejemplo de uso de manejadores fail() y always(). En clase, una vez terminado el ejercicio, el profesor nos dijo que probáramos a utilizar la función [load()](https://api.jquery.com/load/) para hacer la petición, lo que es mucho más sencillo si simplemente quieres incrustar lo que has descargado en el DOM.
 
 ## Resultado
 [https://acamara7es.github.io/X-NAV-JQ-Ajax/index.html](https://acamara7es.github.io/X-NAV-JQ-Ajax/index.html)
